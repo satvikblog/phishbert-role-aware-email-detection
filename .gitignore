@@ -1,0 +1,18 @@
+# Ignore potentially huge model/data files
+MODELS/
+models/
+data/
+embeddings/
+*.safetensors
+*.bin
+*.pth
+*.pt
+*.npy
+*.npz
+*.zip
+results/
+logs/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.env
